@@ -60,3 +60,5 @@ group :test do
   gem 'selenium-webdriver', '~> 4.11'
   gem 'webdrivers', '~> 5.0', require: false
 end
+
+gem "tailwindcss-rails", "~> 2.7"
